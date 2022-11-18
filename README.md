@@ -17,7 +17,7 @@ To deploy this you will need :
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/haydarmiezanie/glints_scraping.git
 ```
 
 Install dependencies
@@ -40,7 +40,8 @@ Example :
 ```
 ## Scraper Flow
 
-[Documentation](https://linktodocumentation)
+![image](https://user-images.githubusercontent.com/39428898/202619482-35766f8a-e361-48ee-ae37-e990a2b833e0.png)
+
 
 
 ## Limitation
